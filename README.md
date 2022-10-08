@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @AganCoder
-- 👀 
-- 🌱 I’m currently learning C++
-- 💞️ 
-- 📫 
+- # 你好，世界
 
 <!---
 AganCoder/AganCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
